@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">SehatYuk</string>
+    <string name="hello_mari_sehat">Halo, Mari Sehat!</string>
+    <string name="pantau_kesehatan">Pantau kesehatanmu hari ini dengan kalkulator SehatYuk.</string>
+    
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="hint_nama">Contoh: Budi Santoso</string>
+    <string name="berat_badan">Berat Badan (kg)</string>
+    <string name="tinggi_badan">Tinggi Badan (cm)</string>
+    <string name="umur">Umur (tahun)</string>
+    
+    <string name="hitung_bmi">Hitung BMI</string>
+    <string name="hitung_bmr">Hitung BMR</string>
+    
+    <string name="hasil_kalkulasi">Hasil Kalkulasi</string>
+    <string name="bmi">BMI</string>
+    <string name="bmr">BMR</string>
+    <string name="interpretasi">Interpretasi</string>
+    
+    <string name="default_placeholder">--</string>
+    <string name="default_bmr_placeholder">-- kkal/hari</string>
+    <string name="default_interpretation">Masukkan data untuk melihat hasil</string>
+    
+    <string name="error_empty_field">Kolom ini tidak boleh kosong</string>
+    <string name="error_invalid_number">Nilai harus lebih besar dari 0</string>
+    <string name="bmr_unit_suffix"> kkal/hari</string>
 </resources>

@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+DESIGN.md
+INSTRUCTIONS.md
